@@ -3,6 +3,8 @@ class ArrayExample
 {
     static void Main()
     {
+        //Define un array de caracteres llamado letters
+        //se reserva memoria para    ...   elementos de tipo char
         char[] letters = { 'f', 'r', 'e', 'd', ' ', 's', 'm', 'i', 't', 'h' };
         string name = "";
         int[] a = new int[10];
@@ -18,4 +20,4 @@ class ArrayExample
     {
         Console.WriteLine("Hello, " + name + "! Count to " + msg);
     }
-}
+}

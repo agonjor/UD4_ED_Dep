@@ -1,0 +1,13 @@
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.exe
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.deps.json
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.json
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.dev.json
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csprojAssemblyReference.cache
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfoInputs.cache
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfo.cs
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\Ana González\Desktop\AnaGonzalez\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.genruntimeconfig.cache
